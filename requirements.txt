@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+prophet
+streamlit
+pytest
